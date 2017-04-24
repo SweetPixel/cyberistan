@@ -28,5 +28,5 @@ layout: default
       <p style="position: relative;">Cyberistan 2099 is a trademark of Sweet Pixel Studio. Cyberistan 2099 Sweet Pixel Studio. All rights reserved. All other copyrights and trademarks are the property of their respective owners.</p>
     </div>
   </footer>
-  <div><img style="width: 100%; height: 773px; margin-top: -760px;" src="/assets/images/Cyberistan-Scan-lines2.png" alt=""></div>
+  <div style="margin-bottom: -14px; margin-left: -8px; margin-right: -9px;"><img style="width: 100%; height: 773px; margin-top: -760px;" src="/assets/images/Cyberistan-Scan-lines2.png" alt=""></div>
 </div>
