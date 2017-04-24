@@ -1,0 +1,132 @@
+.cyberistan {
+  padding: 10px;
+  background: #25dfc3;
+  background: -webkit-linear-gradient(#13211e, #e8dab0);
+  background: -o-linear-gradient(#13211e, #e8dab0);
+  background: -moz-linear-gradient(#13211e, #e8dab0);
+  background: linear-gradient(#13211e, #e8dab0);
+}
+
+.monsters img { 
+  margin-top: -220px;
+  padding-right: 15px;
+}
+.monsterjump-text {
+  text-align: center;
+  color: White;
+  font-size: 1.4rem;
+  font-family: koyu;
+  letter-spacing: .1rem;
+  margin: 10px 0;
+  line-height: 45px;
+}
+
+.monsterjump .flex-row {
+	flex-wrap: wrap;
+  display: flex;
+}
+
+.monsterjump-grid{
+  width: 340px;
+  max-width: 340px;
+  min-width: 340px;
+  margin: 18px 18px;
+}
+.monsterjump-grid.img-center {
+  width: 100%;
+}
+
+.person-name {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+
+.person-desig {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 2px;;
+}
+.flex-row .monsterjump-text a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+.cyberistan_footer p {
+  position: absolute; 
+  bottom: 10px; 
+  font-weight: 600;
+  left: 146px; 
+  width: 620px; 
+  height: 80px; 
+  margin: 0; 
+  padding:0; 
+  font-size: 12px; 
+  color: #71544d;
+font-family: "Droid Sans", Tahoma, sans-serif;
+}
+@media only screen and (max-width: 1600px) {  
+.flex-row .monsterjump-grid p {
+     padding: 0px;
+ 
+   }
+    .monsterjump-grid{
+    width: 340px;
+    max-width: 340px;
+    min-width: 340px;
+  }
+
+}
+
+@media only screen and (max-width: 1250px) {  
+.flex-row .monsterjump-gridp {
+     padding: 0px;
+ 
+   }
+
+   .monsterjump-grid{
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+
+}
+
+@media only screen and (max-width: 1160px) {
+	.monsterjump-grid{
+		width: 260px;
+		max-width: 260px;
+		min-width: 332px;
+	}
+
+.monster-text {
+  margin-top: 65px;
+}
+.monsters img {
+  width: 17%;
+}
+}
+
+@media only screen and (max-width: 950px) {
+	.monsterjump-grid{
+		width: 180px;
+		max-width: 180px;
+		min-width: 180px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+  .monsterjump .flex-row {
+		display: flex;
+	}
+	.monsterjump-grid{
+		width: 250px;
+		max-width: 250px;
+		min-width: 250px;
+	}
+
+}
