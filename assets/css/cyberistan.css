@@ -1,9 +1,9 @@
 .cyberistan {
   padding: 10px;
   background: #25dfc3;
-  background: -webkit-linear-gradient(#13211e, #e8dab0);
-  background: -o-linear-gradient(#13211e, #e8dab0);
-  background: -moz-linear-gradient(#13211e, #e8dab0);
+  background: -webkit-linear-gradient(#6b6c42, #cccb92);
+  background: -o-linear-gradient(#6b6c42, #cccb92);
+  background: -moz-linear-gradient(#6b6c42, #cccb92);
   background: linear-gradient(#6b6c42, #cccb92);
 }
 
