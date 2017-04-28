@@ -4,9 +4,9 @@ permalink: /
 layout: default
 ---
 <div class="cyberistan">
-<p class="monsterjump-text" style="color: #fffd42;">Experience Pakistan in the Year 2099 in this bomb of a science fiction game coming straight to your mobile phones. #Cyberistan2099</p>
+<p class="monsterjump-text" style="position: relative; color: #fffd42;">Experience Pakistan in the Year 2099 in this bomb of a science fiction game coming straight to your mobile phones. #Cyberistan2099</p>
   <div class="banner" style="width: 48%;">
-  <img style="width: 100%; margin: 0 auto; display: block; padding-top: 86px;" src="{{ site.github.url }}/assets/images/Cyberistan_Logo.png" alt="">
+  <img style="position: relative; width: 100%; margin: 0 auto; display: block; padding-top: 86px;" src="{{ site.github.url }}/assets/images/Cyberistan_Logo.png" alt="">
   </div>
     <div class="monsterjump-text" style="z-index: 3; position: relative; margin-top: 27px;">
     <a href="https://www.facebook.com/Cyberistan-2099-1285145974926202/" style="color: transparent;">
@@ -24,6 +24,13 @@ layout: default
     <p class="monsterjump-text">"WHEN LIFE GIVES YOU LEMONS, MAKE LEMONADE TYCOON"</p>
   </div> -->
   <footer>
+  <script type="text/javascript">
+<!--
+if (screen.width <= 699) {
+document.location = "https://www.facebook.com/Cyberistan-2099-1285145974926202/";
+}
+//-->
+</script>
   <script>
   (function(i,s,o,g,r,a,m){i[‘GoogleAnalyticsObject’]=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -36,5 +43,8 @@ layout: default
       <p style="position: relative;">Cyberistan 2099 is a trademark of Sweet Pixel Studio. Cyberistan 2099 Sweet Pixel Studio. All rights reserved. All other copyrights and trademarks are the property of their respective owners.</p>
     </div>
   </footer>
-  <div style="opacity: 0.3; margin-bottom: -14px; margin-left: -8px; margin-right: -9px;"><img style="width: 100%; height: 773px; margin-top: -760px;" src="{{ site.github.url }}/assets/images/Cyberistan-Scan-lines2.png" alt=""></div>
+  <div>
+    <img style="width: 101.4%;height: 773px;margin-top: -760px;margin-bottom: -14px;margin-left: -10px;" src="{{ site.github.url }}/assets/images/Cyberistan2099.png" alt="">
+  </div>
+  <!-- <div style="opacity: 0.3; margin-bottom: -14px; margin-left: -8px; margin-right: -9px;"><img style="width: 100%; height: 773px; margin-top: -760px;" src="{{ site.github.url }}/assets/images/Cyberistan-Scan-lines2.png" alt=""></div> -->
 </div>
