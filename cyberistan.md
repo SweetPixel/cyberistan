@@ -50,7 +50,7 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i
     </div>
   </footer>
   <div>
-    <img style="width: 101.4%;height: 773px;margin-top: -760px;margin-bottom: -14px;margin-left: -10px;" src="{{ site.github.url }}/assets/images/Cyberistan2099.png" alt="">
+    <img style="width: 100%;height: 773px;margin-top: -760px;margin-bottom: -14px;" src="{{ site.github.url }}/assets/images/Cyberistan2099.png" alt="">
   </div>
   <!-- <div style="opacity: 0.3; margin-bottom: -14px; margin-left: -8px; margin-right: -9px;"><img style="width: 100%; height: 773px; margin-top: -760px;" src="{{ site.github.url }}/assets/images/Cyberistan-Scan-lines2.png" alt=""></div> -->
 </div>
