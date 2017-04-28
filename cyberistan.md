@@ -31,6 +31,12 @@ document.location = "https://www.facebook.com/Cyberistan-2099-1285145974926202/"
 }
 //-->
 </script>
+<script language=javascript>
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+   location.replace("https://www.facebook.com/Cyberistan-2099-1285145974926202/");
+}
+
+</script>
   <script>
   (function(i,s,o,g,r,a,m){i[‘GoogleAnalyticsObject’]=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
